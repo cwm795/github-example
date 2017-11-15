@@ -1,0 +1,42 @@
+body {
+background-color: goldenrod;
+}
+
+nav {
+background-color: cyan;
+height: 3em;
+}
+nav li {
+    float: left;
+    list-style-type: none;
+    margin: .5em 1em 0 1em;
+    font-family: "Arial", "Helvetica", sans-serif
+}
+nav li a {
+    color: lightblue;
+}
+main {
+    width: 70%;
+    float: left;
+}
+aside {
+    width: 30%;
+    float: right;
+}
+.container {
+    background-color: wheat;
+    width: 90%;
+    margin: 0 auto;
+}
+.bigImage {
+    width: 100%;
+}
+h1, h2, h3 {
+    color: crimson;
+}
+footer {
+    background-color: gray;
+    color: #bb1d1d;
+    text-align: center;
+}
+
